@@ -129,5 +129,6 @@ No real employee or confidential data has been used.
 Australia  
 
 
-(Portfolio link) | (LinkedIn link) | (GitHub link)
+Portfolio link: https://www.datascienceportfol.io/vatsalprkh
+Linkedin link: www.linkedin.com/in/vatsal-parekh-9b8b4b169
 
